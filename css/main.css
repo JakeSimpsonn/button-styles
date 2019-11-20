@@ -29,3 +29,7 @@ div {
 .btn-primary:hover {
   background-color: #000;
 }
+
+.btn-subtle:hover {
+  background-color: #666;
+}
