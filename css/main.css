@@ -33,3 +33,7 @@ div {
 .btn-subtle:hover {
   background-color: #666;
 }
+
+.btn-warning:hover {
+  background-color: #933;
+}
