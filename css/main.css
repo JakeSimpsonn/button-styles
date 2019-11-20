@@ -52,3 +52,13 @@ div {
   color: #fff;
   border-color: #fff;
 }
+
+.btn-warning {
+  background-color: #f33;
+  color: #fff;
+  border-color: #fff;
+}
+
+.btn-big {
+  font-size: 1.5rem;
+}
