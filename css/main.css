@@ -37,3 +37,12 @@ div {
 .btn-warning:hover {
   background-color: #933;
 }
+
+.btn-ghost:hover {
+  background-color: #333;
+}
+
+.btn-ghost {
+  background-color: #fff;
+  color: #000;
+}
